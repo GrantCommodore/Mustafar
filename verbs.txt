@@ -1,7 +1,7 @@
-spielen
-lernen
-lesen
-essen
-frissen
-sprechen
-brauchen 
+spielen- play 
+lernen- learn
+lesen- read
+essen- eat 
+frissen- eat
+sprechen- speak 
+brauchen- need 
